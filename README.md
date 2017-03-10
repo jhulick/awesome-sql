@@ -39,3 +39,4 @@ List of tools and techniques for working with relational databases inspired by o
 - [Flyway](https://flywaydb.org/) - Database migration tool
 - [Liquibase](http://www.liquibase.org/) - Source Control for your database
 - [SchemaSpy](http://schemaspy.sourceforge.net/) - Graphical Database Schema Metadata Browser
+- [Redgate](http://www.red-gate.com/) - db tools
