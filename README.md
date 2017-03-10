@@ -38,3 +38,4 @@ List of tools and techniques for working with relational databases inspired by o
 - [BigBash](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
 - [Flyway](https://flywaydb.org/) - Database migration tool
 - [Liquibase](http://www.liquibase.org/) - Source Control for your database
+- [SchemaSpy](http://schemaspy.sourceforge.net/) - Graphical Database Schema Metadata Browser
